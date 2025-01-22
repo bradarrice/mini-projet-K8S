@@ -1,0 +1,1 @@
+# L’objectif du projet est le déploiement de la solution wordpress sur un cluster kubernetes, il sera ainsi question d’utiliser les objets kubernetes vus en cours afin de déployer et de rendre notre application disponible. Nous utiliserons les objets tels que les deployements, les services (nodeport et clusterip), les secrets, les PV et PVC et bien d’autres.
